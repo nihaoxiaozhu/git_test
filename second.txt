@@ -1,0 +1,7 @@
+spirng       springmvc
+struts        struts2
+hibernate     hibernate
+mybatis        mybatis
+jfinal        jfinal
+122121         156411
+
